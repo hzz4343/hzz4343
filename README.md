@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Patrick 🧑‍💻
+## Hi there 👋 I'm Zizhang (Patrick) 🧑‍💻
 Passionate software developer with a keen interest in crafting efficient and innovative solutions.
 
 # Tech Stack
