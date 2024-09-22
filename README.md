@@ -1,4 +1,8 @@
 ## Hi there 👋 I'm Zizhang (Patrick) 🧑‍💻
+- Application Development Delivery Student at RRC Polytech
+- President of Bits and Bytes Association
+- Badminton Player
+
 Passionate software developer with a keen interest in crafting efficient and innovative solutions.
 
 # Tech Stack
