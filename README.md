@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Zizhang (Patrick) 🧑‍💻
 - Application Development Delivery Student at RRC Polytech
 - Co-founder of Studio Boreas
+- Win Road Test: https://apps.apple.com/ca/app/win-road-test/id6739723461
 
 Passionate software developer with a keen interest in crafting efficient and innovative solutions.
 
